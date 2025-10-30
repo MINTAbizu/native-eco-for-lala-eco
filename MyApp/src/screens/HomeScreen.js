@@ -5,6 +5,13 @@ import { CartContext } from '../context/CartContext';
 const products = [
   { id: '1', name: 'Hotel Room Deluxe', price: 150, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
   { id: '2', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '3', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '4', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '5', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '6', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '7', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '7', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
+  { id: '8', name: 'Hotel Room Standard', price: 100, image: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1' },
 ];
 
 export default function HomeScreen({ navigation }) {
